@@ -59,12 +59,16 @@ menu:
     main:
         - identifier: categories
           name: Categories
-          url: /categories/
+          url: categories/
           weight: 10
-        - identifier: getesncard
-          name: Get your ESNcard today!
-          url: https://esnupm.org/esncard
-          weight: 30
+        - identifier: search
+          name: "🔍"
+          url: search
+          weight: 20
+        # - identifier: getesncard
+        #   name: Get your ESNcard today!
+        #   url: https://esnupm.org/esncard
+        #   weight: 30
 
 taxonomies:
   category: categories
@@ -108,10 +112,19 @@ languages:
       main:
         - identifier: categories
           name: Catégories
-          url: /categories/
+          url: categories
           weight: 10
-        - identifier: getesncard
-          name: Obtenez votre ESNcard !
-          url: https://esnupm.org/esncard
-          weight: 30
+        - identifier: search
+          name: "🔍"
+          url: search
+          weight: 20
+        # - identifier: getesncard
+        #   name: Obtenez votre ESNcard !
+        #   url: https://esnupm.org/esncard
+        #   weight: 30
 
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary

@@ -16,7 +16,7 @@ categories:
 ***¡Hola!*** Tu es prêt à découvrir et profiter des activités et avantages exceptionnels offerts par la ESNcard ! Obtenir ta ESNcard est un processus facile et rapide. En un clin d'œil, tu feras partie de la communauté internationale d'ESN Madrid UPM et tu t'amuseras davantage ici !
 
 [➡️  **Sauter aux infos et aux horaires des lieux de collecte actuels**](#current-pickup-locations-and-times)  
-[➡️  **Sauter aux infos sur le paiement**](#ordering-your-esncard)
+[➡️  **Sauter aux infos sur le paiement**](#commander-une-esncard)
 {.note}
 
 ## Qu'est-ce que l'ESNcard ? (carte ESN)

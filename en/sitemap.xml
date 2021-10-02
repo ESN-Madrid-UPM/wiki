@@ -2,100 +2,100 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://esnupm.github.io/categories/</loc>
+    <loc>http://esnupm.github.io/wiki/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://esnupm.github.io/fr/categories/"
+                href="http://esnupm.github.io/wiki/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://esnupm.github.io/categories/"
+                href="http://esnupm.github.io/wiki/categories/"
                 />
   </url><url>
-    <loc>http://esnupm.github.io/</loc>
+    <loc>http://esnupm.github.io/wiki/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://esnupm.github.io/fr/"
+                href="http://esnupm.github.io/wiki/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://esnupm.github.io/"
+                href="http://esnupm.github.io/wiki/"
                 />
   </url><url>
-    <loc>http://esnupm.github.io/categories/esncard/</loc>
+    <loc>http://esnupm.github.io/wiki/categories/esncard/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://esnupm.github.io/fr/categories/esncard/"
+                href="http://esnupm.github.io/wiki/fr/categories/esncard/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://esnupm.github.io/categories/esncard/"
+                href="http://esnupm.github.io/wiki/categories/esncard/"
                 />
   </url><url>
-    <loc>http://esnupm.github.io/posts/esncard-guide/</loc>
+    <loc>http://esnupm.github.io/wiki/posts/esncard-guide/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://esnupm.github.io/fr/posts/esncard-guide/"
+                href="http://esnupm.github.io/wiki/fr/posts/esncard-guide/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://esnupm.github.io/posts/esncard-guide/"
+                href="http://esnupm.github.io/wiki/posts/esncard-guide/"
                 />
   </url><url>
-    <loc>http://esnupm.github.io/categories/guides/</loc>
+    <loc>http://esnupm.github.io/wiki/categories/guides/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://esnupm.github.io/fr/categories/guides/"
+                href="http://esnupm.github.io/wiki/fr/categories/guides/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://esnupm.github.io/categories/guides/"
+                href="http://esnupm.github.io/wiki/categories/guides/"
                 />
   </url><url>
-    <loc>http://esnupm.github.io/posts/</loc>
+    <loc>http://esnupm.github.io/wiki/posts/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://esnupm.github.io/fr/posts/"
+                href="http://esnupm.github.io/wiki/fr/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://esnupm.github.io/posts/"
+                href="http://esnupm.github.io/wiki/posts/"
                 />
   </url><url>
-    <loc>http://esnupm.github.io/series/</loc>
+    <loc>http://esnupm.github.io/wiki/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://esnupm.github.io/fr/series/"
+                href="http://esnupm.github.io/wiki/fr/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://esnupm.github.io/series/"
+                href="http://esnupm.github.io/wiki/series/"
                 />
   </url><url>
-    <loc>http://esnupm.github.io/tags/</loc>
+    <loc>http://esnupm.github.io/wiki/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://esnupm.github.io/fr/tags/"
+                href="http://esnupm.github.io/wiki/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://esnupm.github.io/tags/"
+                href="http://esnupm.github.io/wiki/tags/"
                 />
   </url>
 </urlset>

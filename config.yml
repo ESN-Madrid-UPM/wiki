@@ -39,7 +39,7 @@ params:
 
   label:
     text: "ESN Madrid UPM Wiki"
-    icon: /esn-star.png
+    icon: /wiki/esn-star.png
     iconHeight: 35
 
   homeInfoParams:

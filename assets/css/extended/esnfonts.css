@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700");
+
+@font-face {
+  font-family: "Kelson Sans";
+  src: url("/fonts/KelsonSans-Normal.woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Kelson Sans";
+  src: url("/fonts/KelsonSans-Bold.woff2");
+  font-weight: 700;
+  font-style: bold;
+}
+
+@font-face {
+  font-family: "Kelson Sans";
+  src: url("/fonts/KelsonSans-Light.woff2");
+  font-weight: 200;
+  font-style: normal;
+}
+
+body {
+  font-family: "Lato", sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6, .logo {
+  font-family: "Kelson Sans", sans-serif;
+}

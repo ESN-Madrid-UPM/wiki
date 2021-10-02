@@ -1,0 +1,117 @@
+baseURL: "http://esnupm.github.io/"
+theme: ["hugo-notice", "PaperMod"]
+languageCode: en-us
+defaultContentLanguage: "en"
+title: "ESN Madrid UPM Wiki"
+paginate: 5
+copyright: "[ESN Madrid UPM](https://esnupm.org/)"
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: true
+enableEmoji: true
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production
+  title: "ESN Madrid UPM Wiki"
+  description: "Wiki of the ESN local section at Universidad Politécnica de Madrid"
+  keywords: [ESN, wiki, UPM]
+  author: Marcos Gómez
+  DateFormat: "January 2, 2006"
+  defaultTheme: light
+  disableThemeToggle: true
+  
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowBreadCrumbs: true
+  ShowPostNavLinks: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: true
+  tocopen: false
+  displayFullLangName: true
+
+  label:
+    text: "ESN Madrid UPM Wiki"
+    icon: /esn-star.png
+    iconHeight: 35
+
+  homeInfoParams:
+    Title: "Welcome to ESN Madrid UPM's Wiki"
+    Content: Here you will find infomation relevant to you during your stay. You can access al sorts of guides, FAQs and information in this website. Enjoy!
+
+  socialIcons:
+    - name: web
+      url: "https://esnupm.org"
+    - name: instagram
+      url: "https://instagram.com/esnupm"
+    - name: twitter
+      url: "https://twitter.com/esnupm"
+
+
+menu:
+    main:
+        - identifier: categories
+          name: Categories
+          url: /categories/
+          weight: 10
+        - identifier: getesncard
+          name: Get your ESNcard today!
+          url: https://esnupm.org/esncard
+          weight: 30
+
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+    parser:
+      attribute:
+        block: true
+        title: true
+
+languages:
+  en:
+    languageName: ":gb:"
+    languageAltTitle: "English"
+    weight: 1
+
+  # es:
+  #   languageName: ":es:"
+  #   languageAltTitle: "Español"
+  #   weight: 2
+
+  fr:
+    languageName: ":fr:"
+    languageAltTitle: "Français"
+    weight: 3
+    params:
+      homeInfoParams:
+        Title: "Bienvenue sur le wiki d'ESN Madrid UPM"
+        Content: >
+                 - Tu trouveras ici des informations utiles pour ton séjour. Tu peux accéder à toutes sortes de guides, FAQ et informations sur ce site. Profitez-en !
+
+                 - **Suivez-nous sur nos réseaux sociaux pour rester connecté !**
+
+                 - *Ce site web est construit et maintenu par l'équipe IT d'ESN Madrid UPM.*
+    menu:
+      main:
+        - identifier: categories
+          name: Catégories
+          url: /categories/
+          weight: 10
+        - identifier: getesncard
+          name: Obtenez votre ESNcard !
+          url: https://esnupm.org/esncard
+          weight: 30
+

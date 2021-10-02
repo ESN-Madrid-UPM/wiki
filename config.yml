@@ -1,4 +1,4 @@
-baseURL: "http://esnupm.github.io/"
+baseURL: "http://esnupm.github.io/wiki/"
 theme: ["hugo-notice", "PaperMod"]
 languageCode: en-us
 defaultContentLanguage: "en"

@@ -82,7 +82,7 @@ markup:
 
 languages:
   en:
-    languageName: ":gb:"
+    languageName: ":gb: English"
     languageAltTitle: "English"
     weight: 1
 
@@ -92,7 +92,7 @@ languages:
   #   weight: 2
 
   fr:
-    languageName: ":fr:"
+    languageName: ":fr: Français"
     languageAltTitle: "Français"
     weight: 3
     params:

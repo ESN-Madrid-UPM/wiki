@@ -62,7 +62,7 @@ Obtenir votre ESNcard est très facile et sans tracas !! :D
 
 ### Commander une ESNcard
 
-* Enregistrez-vous sur [esnupm.org/esncard](esnupm.org/esncard) avec vos données. Dans le cadre *Country*, veuillez saisir le pays d'où vous venez.
+* Enregistrez-vous sur [esnupm.org/esncard](https://esnupm.org/esncard) avec vos données. Dans le cadre *Country*, veuillez saisir le pays d'où vous venez.
 * Après avoir rempli le formulaire, il faudra choisir un mode de paiement, <mark>veuillez sélectionner *Pay at the office* (payer au bureau)</mark>.
   * Si tu n'as pas encore Verse, **nous te montrerons comment le configurer** quand tu viendras le chercher et nous te donnerons **un cadeau de 5 euros** que tu pourras utiliser dans Verse !
   * [Cliquez ici](#verse-) pour plus d'informations sur Verse, l'application de paiement officielle de l'ESN.
@@ -78,7 +78,7 @@ Vous pouvez également sélectionner *Pay by bank transfer* (payer par virement 
 
 ### Prendre le rendez-vous
 
-* Après avoir rempli le formulaire (ou non, voir le conseil ci-dessous), accédez à [esnupm.setmore.com](esnupm.setmore.com) et [choisissez le lieu et l'heure souhaités](#lieux-et-heures-de-ramassage-actuels).
+* Après avoir rempli le formulaire (ou non, voir le conseil ci-dessous), accédez à [esnupm.setmore.com](https://esnupm.setmore.com) et [choisissez le lieu et l'heure souhaités](#lieux-et-heures-de-ramassage-actuels).
 * Remplissez les informations de contact : un email contenant les informations relatives au rendez-vous sera envoyé.
   * Si nécessaire, vous pouvez reprogrammer ou annuler votre rendez-vous à partir de cet email.
 * [**Apportez les documents nécessaires à la délivrance de votre carte**](#documents-à-apporter)

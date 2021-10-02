@@ -62,7 +62,7 @@ Getting your ESNcard is very easy and hassle-free!! :D
 
 ### Ordering your ESNcard
 
-* Register at [esnupm.org/esncard](esnupm.org/esncard) with your information. In the *Country* field please input the country where you come from :)
+* Register at [esnupm.org/esncard](https://esnupm.org/esncard) with your information. In the *Country* field please input the country where you come from :)
 * After you fill the form you will be asked to choose a payment method, <mark>please select *Pay at the office*</mark>.
   * If you don't have Verse yet, **we will show you how to set it up** when you come and pick it up and we will give you a **5 euro gift** for you to use in Verse!
   * [Click here](#what-is-verse) for more information about Verse, the official payments app of ESN.
@@ -78,7 +78,7 @@ You can also select *Pay by bank transfer* although it is discouraged and a comm
 
 ### Booking an appointment
 
-* After filling the form (or not, see tip below), head over to [esnupm.setmore.com](esnupm.setmore.com) and [choose your desired location and time](#current-pickup-locations-and-times).
+* After filling the form (or not, see tip below), head over to [esnupm.setmore.com](https://esnupm.setmore.com) and [choose your desired location and time](#current-pickup-locations-and-times).
 * Fill in the contact information: an email with the appointment information will be sent to your email.
   * If needed, you can reschedule or cancel your appointment from the email.
 * [**Bring the required documentation to issue your card**](#required-documentation-to-bring)

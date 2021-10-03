@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on ESN Madrid UPM Wiki</title>
-    <link>http://esnupm.github.io/wiki/tags/</link>
+    <link>https://esnupm.github.io/wiki/tags/</link>
     <description>Recent content in Tags on ESN Madrid UPM Wiki</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>[ESN Madrid UPM](https://esnupm.org/)</copyright><atom:link href="http://esnupm.github.io/wiki/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>[ESN Madrid UPM](https://esnupm.org/)</copyright><atom:link href="https://esnupm.github.io/wiki/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

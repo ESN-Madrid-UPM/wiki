@@ -5,6 +5,7 @@
   src: url("/wiki/fonts/KelsonSans-Normal.woff2");
   font-weight: 400;
   font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
@@ -12,6 +13,7 @@
   src: url("/wiki/fonts/KelsonSans-Bold.woff2");
   font-weight: 700;
   font-style: bold;
+  font-display: swap;
 }
 
 @font-face {
@@ -19,6 +21,7 @@
   src: url("/wiki/fonts/KelsonSans-Light.woff2");
   font-weight: 200;
   font-style: normal;
+  font-display: swap;
 }
 
 body {

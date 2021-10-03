@@ -5,6 +5,7 @@ defaultContentLanguage: "en"
 title: "ESN Madrid UPM Wiki"
 paginate: 5
 copyright: "[ESN Madrid UPM](https://esnupm.org/)"
+disableHugoGeneratorInject: true
 
 enableRobotsTXT: true
 buildDrafts: false

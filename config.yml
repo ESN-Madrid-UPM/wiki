@@ -25,7 +25,7 @@ params:
   DateFormat: "January 2, 2006"
   defaultTheme: light
   disableThemeToggle: true
-  
+
   ShowReadingTime: true
   ShowShareButtons: true
   ShowBreadCrumbs: true
@@ -44,7 +44,12 @@ params:
 
   homeInfoParams:
     Title: "Welcome to ESN Madrid UPM's Wiki"
-    Content: Here you will find infomation relevant to you during your stay. You can access al sorts of guides, FAQs and information in this website. Enjoy!
+    Content: >
+      - Here you will find information useful for you during your stay. You can access all sorts of guides, FAQs and tips in this site. Enjoy!
+
+      - **Follow us on social media to stay connected!**
+
+      - *This website is built and maintained by ESN Madrid UPM's IT Team*
 
   socialIcons:
     - name: web
@@ -54,21 +59,20 @@ params:
     - name: twitter
       url: "https://twitter.com/esnupm"
 
-
 menu:
-    main:
-        - identifier: categories
-          name: Categories
-          url: categories/
-          weight: 10
-        - identifier: search
-          name: "🔍"
-          url: search
-          weight: 20
-        # - identifier: getesncard
-        #   name: Get your ESNcard today!
-        #   url: https://esnupm.org/esncard
-        #   weight: 30
+  main:
+    - identifier: categories
+      name: Categories
+      url: categories/
+      weight: 10
+    - identifier: search
+      name: "🔍"
+      url: search/
+      weight: 20
+    # - identifier: getesncard
+    #   name: Get your ESNcard today!
+    #   url: https://esnupm.org/esncard
+    #   weight: 30
 
 taxonomies:
   category: categories
@@ -103,11 +107,11 @@ languages:
       homeInfoParams:
         Title: "Bienvenue sur le wiki d'ESN Madrid UPM"
         Content: >
-                 - Tu trouveras ici des informations utiles pour ton séjour. Tu peux accéder à toutes sortes de guides, FAQ et informations sur ce site. Profitez-en !
+          - Tu trouveras ici des informations utiles pour ton séjour. Tu peux accéder à toutes sortes de guides, FAQ et informations sur ce site. Profitez-en !
 
-                 - **Suivez-nous sur nos réseaux sociaux pour rester connecté !**
+          - **Suivez-nous sur nos réseaux sociaux pour rester connecté !**
 
-                 - *Ce site web est construit et maintenu par l'équipe IT d'ESN Madrid UPM.*
+          - *Ce site web est construit et maintenu par l'équipe IT d'ESN Madrid UPM.*
     menu:
       main:
         - identifier: categories
@@ -124,7 +128,7 @@ languages:
         #   weight: 30
 
 outputs:
-    home:
-        - HTML
-        - RSS
-        - JSON # is necessary
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary

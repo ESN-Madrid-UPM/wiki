@@ -8,15 +8,6 @@
     <language>en-us</language>
     <copyright>[ESN Madrid UPM](https://esnupm.org/)</copyright><atom:link href="http://esnupm.github.io/wiki/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>http://esnupm.github.io/wiki/search/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://esnupm.github.io/wiki/search/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>ESNcard Quick Info Guide</title>
       <link>http://esnupm.github.io/wiki/posts/esncard-guide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -24,6 +15,7 @@
       <guid>http://esnupm.github.io/wiki/posts/esncard-guide/</guid>
       <description>This short guide is about information regarding ordering and picking up ESNcards from ESN Madrid UPM.</description>
     </item>
+    
     
   </channel>
 </rss>

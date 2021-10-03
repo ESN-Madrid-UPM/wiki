@@ -74,6 +74,18 @@
                 href="http://esnupm.github.io/wiki/fr/posts/"
                 />
   </url><url>
+    <loc>http://esnupm.github.io/wiki/fr/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://esnupm.github.io/wiki/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://esnupm.github.io/wiki/fr/search/"
+                />
+  </url><url>
     <loc>http://esnupm.github.io/wiki/fr/series/</loc>
     <xhtml:link
                 rel="alternate"

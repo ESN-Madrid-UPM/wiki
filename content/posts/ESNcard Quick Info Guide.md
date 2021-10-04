@@ -99,13 +99,13 @@ Due to COVID-19 regulations in place at UPM **our main office at ETSICCP** (Escu
 {{< /notice >}}
 
 ---
-**<center>Times and locations for the week from Sept. 27 to Oct. 3</center>**
+**<center>Times and locations for the week from Oct. 4 to Oct. 10</center>**
 
 Location | Address | Opening Hours | Booking link
 ------ | ------ | ------ | ------
 ---
 {{< notice info>}}
-Unfortunately, there are no more locations to book for this week. Stay tuned for next week's locations at our [Instagram profile](https://instagram.com/esnupm).
+We are expecting to reopen our main office this week, but we don't have confirmation from the school yet. Stay tuned for next updates at our [Instagram profile](https://instagram.com/esnupm).
 {{</notice>}}
 
 #### Required documentation to bring

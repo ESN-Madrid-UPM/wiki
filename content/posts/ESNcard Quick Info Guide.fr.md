@@ -105,7 +105,7 @@ Lieu | Adresse | Horaires | Lien rendez-vous
 ------ | ------ | ------ | ------
 ---
 {{< notice info>}}
-Malheureusement, il n'y a plus de lieux pour prendre rendez-vous cette semaine. Restez à l'écoute pour les lieux de la semaine prochaine sur notre [compte Instagram](https://instagram.com/esnupm).
+Nous prévoyons de rouvrir notre bureau principal cette semaine, mais nous n'avons pas encore de confirmation de l'école. Restez à l'écoute pour les prochaines mises à jour via notre [compte Instagram](https://instagram.com/esnupm) ou ici.
 {{</notice>}}
 
 #### Documents à apporter

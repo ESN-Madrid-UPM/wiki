@@ -15,7 +15,7 @@ categories:
 
 ***¡Hola!*** Tu es prêt à découvrir et profiter des activités et avantages exceptionnels offerts par la ESNcard ! Obtenir ta ESNcard est un processus facile et rapide. En un clin d'œil, tu feras partie de la communauté internationale d'ESN Madrid UPM et tu t'amuseras davantage ici !
 
-[➡️  **Sauter aux infos et aux horaires des lieux de collecte actuels**](#current-pickup-locations-and-times)  
+[➡️  **Sauter aux infos et aux horaires des lieux de collecte actuels**](#lieux-et-heures-de-ramassage-actuels)  
 [➡️  **Sauter aux infos sur le paiement**](#commander-une-esncard)
 {.note}
 
@@ -103,10 +103,16 @@ En raison de la réglementation COVID-19 en vigueur à UPM, **notre bureau princ
 
 Lieu | Adresse | Horaires | Lien rendez-vous
 ------ | ------ | ------ | ------
+ETSICCP | Campus Ciudad Universitaria, Calle del Prof. Aranguren, 3, 28040 Madrid | jeudi, 7 oct. 9:30h-13h | [:fast_forward:](https://esnupm.setmore.com/etsiccpstaff)
 ---
-{{< notice info>}}
-Malheureusement, il n'y a plus de lieux pour prendre rendez-vous cette semaine. Restez à l'écoute pour les lieux de la semaine prochaine sur notre [compte Instagram](https://instagram.com/esnupm).
+
+{{<notice info>}}
+D'autres lieux seront annoncés tout au long de la semaine. Nous vous tiendrons au courant via notre [compte Instagram](https://instagram.com/esnupm).
 {{</notice>}}
+
+<!-- {{< notice info>}}
+Malheureusement, il n'y a plus de lieux pour prendre rendez-vous cette semaine. Restez à l'écoute pour les lieux de la semaine prochaine sur notre [compte Instagram](https://instagram.com/esnupm).
+{{</notice>}} -->
 
 #### Documents à apporter
 

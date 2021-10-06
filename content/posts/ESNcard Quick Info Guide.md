@@ -103,10 +103,16 @@ Due to COVID-19 regulations in place at UPM **our main office at ETSICCP** (Escu
 
 Location | Address | Opening Hours | Booking link
 ------ | ------ | ------ | ------
+ETSICCP | Campus Ciudad Universitaria, Calle del Prof. Aranguren, 3, 28040 Madrid | Thursday 7 Oct. 9:30h-13h | [:fast_forward:](https://esnupm.setmore.com/etsiccpstaff)
 ---
-{{< notice info>}}
-Unfortunately, there are no more locations to book for this week. Stay tuned for next week's locations at our [Instagram profile](https://instagram.com/esnupm).
+
+{{<notice info>}}
+There will be more places announced throughout the week. We will update you through our [Instagram profile](https://instagram.com/esnupm).
 {{</notice>}}
+
+<!-- {{< notice info>}}
+Unfortunately, there are no more locations to book for this week. Stay tuned for next week's locations at our [Instagram profile](https://instagram.com/esnupm).
+{{</notice>}} -->
 
 #### Required documentation to bring
 

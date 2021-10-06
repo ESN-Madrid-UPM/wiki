@@ -99,7 +99,7 @@ Due to COVID-19 regulations in place at UPM **our main office at ETSICCP** (Escu
 {{< /notice >}}
 
 ---
-**<center>Times and locations for the week from Sept. 27 to Oct. 3</center>**
+**<center>Times and locations for the week from Oct. 4 to Oct. 10</center>**
 
 Location | Address | Opening Hours | Booking link
 ------ | ------ | ------ | ------

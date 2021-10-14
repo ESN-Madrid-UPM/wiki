@@ -99,15 +99,15 @@ En raison de la réglementation COVID-19 en vigueur à UPM, **notre bureau princ
 {{< /notice >}}
 
 ---
-**<center>Horaires et lieux pour la semaine du 27 sept. au 3 oct.</center>**
+**<center>Horaires et lieux</center>**
 
-Lieu | Adresse | Horaires | Lien rendez-vous
+<!-- Lieu | Adresse | Horaires | Lien rendez-vous
 ------ | ------ | ------ | ------
 ETSICCP | Campus Ciudad Universitaria, Calle del Prof. Aranguren, 3, 28040 Madrid | jeudi, 7 oct. 9:30h-13h | [:fast_forward:](https://esnupm.setmore.com/etsiccpstaff)
----
+--- -->
 
 {{<notice info>}}
-D'autres lieux seront annoncés tout au long de la semaine. Nous vous tiendrons au courant via notre [compte Instagram](https://instagram.com/esnupm).
+Les horaires et les lieux sont actuellement annoncés sur notre [compte Instagram](https://instagram.com/esnupm).
 {{</notice>}}
 
 <!-- {{< notice info>}}

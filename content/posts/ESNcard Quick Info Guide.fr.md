@@ -90,13 +90,13 @@ Si vous souhaitez, vous pouvez obtenir un rendez-vous **sans avoir rempli le for
 
 #### Lieux et heures de ramassage actuels
 
-{{< notice warning >}}
+<!-- {{< notice warning >}}
 > **Mises à jour hebdomadaires sur les lieux et les horaires**
 
 En raison de la réglementation COVID-19 en vigueur à UPM, **notre bureau principal à l'ETSICCP** (Escuela Técnica Superior de Ingenieros de Caminos Canales y Puertos) **est temporairement fermé jusqu'à nouvel ordre**. **N'y allez pas encore, même si vous en êtes informés par des notifications ou des e-mails**. Elle ouvrira prochainement et nous vous en informerons via nos réseaux sociaux.
 
 <u>**Pour l'instant, nous distribuons des cartes à certains endroits et à certaines heures dans nos activités et à Ciudad Universitaria. *Consultez régulièrement cette page pour connaître les lieux et horaires.***</u>
-{{< /notice >}}
+{{< /notice >}} -->
 
 ---
 **<center>Horaires et lieux</center>**

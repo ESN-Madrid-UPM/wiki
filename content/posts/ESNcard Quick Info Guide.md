@@ -90,13 +90,13 @@ If you wish, you can get an appointment **without having filled the form at our 
 
 #### Current pickup locations and times
 
-{{< notice warning >}}
+<!-- {{< notice warning >}}
 > **Weekly updates on locations and schedules**
 
 Due to COVID-19 regulations in place at UPM **our main office at ETSICCP** (Escuela Técnica Superior de Ingenieros de Caminos Canales y Puertos) **is temporarily closed until further notice**. **Don't go there yet even if told by notifications or emails**. It will open soon and we will inform you through our social profiles.
 
 **For the time being we are issuing cards at select locations and times at our activities and in Ciudad Universitaria. *Check this page regularly to see updated locations and times.***
-{{< /notice >}}
+{{< /notice >}} -->
 
 ---
 **<center>Times and locations</center>**

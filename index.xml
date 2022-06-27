@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>ESN Madrid UPM Wiki</title>
-    <link>https://esnupm.github.io/wiki/</link>
+    <link>https://office.esnupm.org/</link>
     <description>Recent content on ESN Madrid UPM Wiki</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>[ESN Madrid UPM](https://esnupm.org/)</copyright><atom:link href="https://esnupm.github.io/wiki/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>[ESN Madrid UPM](https://esnupm.org/)</copyright><atom:link href="https://office.esnupm.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ESNcard Quick Info Guide</title>
-      <link>https://esnupm.github.io/wiki/posts/esncard-guide/</link>
+      <link>https://office.esnupm.org/posts/esncard-guide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://esnupm.github.io/wiki/posts/esncard-guide/</guid>
+      <guid>https://office.esnupm.org/posts/esncard-guide/</guid>
       <description>This short guide is about information regarding ordering and picking up ESNcards from ESN Madrid UPM.</description>
     </item>
     
